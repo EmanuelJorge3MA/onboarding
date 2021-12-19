@@ -1,8 +1,8 @@
 class Strings {
-  static var stepOneTitle = "Farm Driving";
+  static var stepOneTitle = "Maquina de Alta Pressão";
   static var stepOneContent =
       "There are all kinds of equipment to build your farm better harvest";
-  static var stepTwoTitle = "Plant Growing";
+  static var stepTwoTitle = "Contentores";
   static var stepTwoContent =
       "Be part of the agriculture and gives your team the power you need to";
   static var stepThreeTitle = "Fast Harvesting";
