@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![test image size](https://raw.githubusercontent.com/EmanuelJorge3MA/onboarding/master/ViewsApp/01.png){:height="700px" width="400px"}
+![image](https://raw.githubusercontent.com/EmanuelJorge3MA/onboarding/master/ViewsApp/01.png = 250x250)
